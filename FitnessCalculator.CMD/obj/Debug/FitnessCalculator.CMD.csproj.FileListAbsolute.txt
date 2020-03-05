@@ -1,0 +1,9 @@
+C:\Users\rkhamidulin\Desktop\Programming-c#\FitnessCalculator\FitnessCalculator\FitnessCalculator.CMD\bin\Debug\FitnessCalculator.CMD.exe.config
+C:\Users\rkhamidulin\Desktop\Programming-c#\FitnessCalculator\FitnessCalculator\FitnessCalculator.CMD\bin\Debug\FitnessCalculator.CMD.exe
+C:\Users\rkhamidulin\Desktop\Programming-c#\FitnessCalculator\FitnessCalculator\FitnessCalculator.CMD\bin\Debug\FitnessCalculator.CMD.pdb
+C:\Users\rkhamidulin\Desktop\Programming-c#\FitnessCalculator\FitnessCalculator\FitnessCalculator.CMD\bin\Debug\FitnessCalculator.BL.dll
+C:\Users\rkhamidulin\Desktop\Programming-c#\FitnessCalculator\FitnessCalculator\FitnessCalculator.CMD\bin\Debug\FitnessCalculator.BL.pdb
+C:\Users\rkhamidulin\Desktop\Programming-c#\FitnessCalculator\FitnessCalculator\FitnessCalculator.CMD\obj\Debug\FitnessCalculator.CMD.csprojAssemblyReference.cache
+C:\Users\rkhamidulin\Desktop\Programming-c#\FitnessCalculator\FitnessCalculator\FitnessCalculator.CMD\obj\Debug\FitnessCalculator.CMD.csproj.CopyComplete
+C:\Users\rkhamidulin\Desktop\Programming-c#\FitnessCalculator\FitnessCalculator\FitnessCalculator.CMD\obj\Debug\FitnessCalculator.CMD.exe
+C:\Users\rkhamidulin\Desktop\Programming-c#\FitnessCalculator\FitnessCalculator\FitnessCalculator.CMD\obj\Debug\FitnessCalculator.CMD.pdb
